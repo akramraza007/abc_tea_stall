@@ -58,7 +58,7 @@ Make sure you have Python installed on your system. You will also need the `stre
     ```
 2. Install dependencies  
    ```bash
-    pip install requirement.txt
+    pip install -r requirement.txt
     ```
 
 3. Run the application
